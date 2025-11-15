@@ -2,7 +2,7 @@ body {
     background: #ffe9f0;
 }
 
-* {
+{
     box-sizing: border-box;
 }
 html, body {
@@ -27,4 +27,5 @@ body {
     form {
         max-width: 600px;
     }
+
 }
